@@ -1,5 +1,27 @@
-# 100 Days Of Code - Log
+# 100+29 Days Of Code - Log :pencil:
 
+
+### Day 10: December 19, 2019
+
+**Today's Progress**: After this days of NO activity I need to review Redux from scratch. So, I learning **Redux** and probably tomorrow continues with this
+
+**Link(s) to work**: [Redux tutorial](https://www.youtube.com/watch?v=sgFQjRL5niY)
+
+### Day 9: November 29, 2019
+
+**Today's Progress**: Today I started learn **Redux** Tomorrow I will get to work with my Contacts App project 
+
+**Thoughts**: N/A
+
+**Link(s) to work**: [Contact App](https://github.com/ledisalvo/ContactsApp)
+
+### Day 8: November 28, 2019
+
+**Today's Progress**: Today I learned about **routing** configuration in #React. Tomorrow I will start with #Redux.
+
+**Thoughts**: N/A
+
+**Link(s) to work**: [Contact App](https://github.com/ledisalvo/ContactsApp)
 
 ### Day 7: November 26, 2019
 
